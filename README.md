@@ -7,7 +7,7 @@
 
 - 📫 Pour me contacter, ça se passe par mail **cyrielle.marchand@gmail.com**
 
-- 📄 Il faut savoir qu'avant, j'étais professeur des écoles ! Cet emploi m'a énormément appris et m'a permis de développer de nombreuses compétences transversales [https://www.linkedin.com/in/cyrielle-marchand-fr/](https://www.linkedin.com/in/cyrielle-marchand-fr/)
+- 📄 Il faut savoir qu'avant, j'étais professeur des écoles ! Cet emploi m'a énormément appris et m'a permis de développer de nombreuses compétences transversales comme la patience, le sens de l'organisation, la rigueur et la communication. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
