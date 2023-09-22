@@ -3,7 +3,7 @@
 
 - 🌱 Je prévois de me former dans quelques semaines à **React !**
 
-- 👨‍💻 Mes projets sont accessibles sur mon portfolio [(lien à venir)]((lien à venir))
+- 👨‍💻 Mes projets sont accessibles sur [mon portfolio](https://troopl.com/cyriellemarchand) 
 
 - 📫 Pour me contacter, ça se passe par mail **cyrielle.marchand@gmail.com**
 
