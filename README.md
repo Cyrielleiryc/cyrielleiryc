@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je m'appelle Cyrielle Marchand</h1>
 <h3 align="center">Nouvelle développeuse web prête à en découdre avec du code</h3>
 
-- 🌱 Je prévois de me former dans quelques semaines à **React !**
+- 🌱 Je commence à me former en autodidacte à **React !**
 
 - 👨‍💻 Mes projets sont accessibles sur [mon portfolio](https://troopl.com/cyriellemarchand) 
 
