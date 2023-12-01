@@ -4,7 +4,7 @@
 - 🌱 Cela fait 1 mois que je me forme à **React** et j'adore !!
 
 - :video_game: Je fortifie mon esprit de logique sur [CodinGame](https://www.codingame.com/profile/80b669ca65b655210c5912b1ede804b28855065) et sur [Codewars](https://www.codewars.com/users/Cyrielleiryc)
-![Badge codewars](https://www.codewars.com/users/Cyrielleiryc/badges/large)
+![Badge codewars](https://www.codewars.com/users/Cyrielleiryc/badges/small)
 
 - 👨‍💻 Mes projets sont accessibles sur [mon portfolio](https://troopl.com/cyriellemarchand) 
 
