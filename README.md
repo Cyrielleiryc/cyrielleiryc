@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je m'appelle Cyrielle Marchand</h1>
-<h3 align="center">Nouvelle développeuse web prête à en découdre avec du code</h3>
+<h3 align="center">Développeuse web prête qui aime en découdre avec du code</h3>
 
-- 🌱 Cela fait 1 mois que je me forme à **React** et j'adore !!
+- :briefcase: Je suis actuellement développeuse back-end au sein du Hub Numérique de Docaposte 
 
 - :video_game: Je fortifie mon esprit de logique sur [CodinGame](https://www.codingame.com/profile/80b669ca65b655210c5912b1ede804b28855065) et sur [Codewars](https://www.codewars.com/users/Cyrielleiryc)
 ![Badge codewars](https://www.codewars.com/users/Cyrielleiryc/badges/small)
